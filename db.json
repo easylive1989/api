@@ -3,9 +3,7 @@
         {
             "countryIcon": "🇼🇸",
             "country": "Taiwan",
-            "city": "Taipei",
-            "lat": 25.1,
-            "lon": 121.5
+            "city": "Taipei"
         }
     ]
 }
