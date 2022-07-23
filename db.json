@@ -1,7 +1,6 @@
 {
     "cities": [
         {
-            "countryIcon": "🇼🇸",
             "country": "Taiwan",
             "city": "Taipei"
         }
