@@ -1,11 +1,34 @@
 {
-    "cities": [
-        {
-            "countryIcon": "🇼🇸",
-            "country": "Taiwan",
-            "city": "Taipei",
-            "lat": 25.1,
-            "lon": 121.5
-        }
-    ]
+    "weahter": {
+            "cities": [
+            {
+                "countryIcon": "🇼🇸",
+                "country": "Taiwan",
+                "city": "Taipei",
+                "lat": 25.1,
+                "lon": 121.5
+            },
+            {
+                "countryIcon": "🇩🇪",
+                "country": "Germany",
+                "city": "Berlin",
+                "lat": 52.5,
+                "lon": 13.4
+            },
+            {
+                "countryIcon": "🇬🇧",
+                "country": "United Kingdom",
+                "city": "London",
+                "lat": 51.5,
+                "lon": -0.11
+            },
+            {
+                "countryIcon": "🇺🇸",
+                "country": "United States",
+                "city": "New York",
+                "lat": 40.7,
+                "lon": -73.9
+            }
+        ]
+    }
 }
