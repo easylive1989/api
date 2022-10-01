@@ -33,15 +33,18 @@
     "user": [
         {
             "id": 1,
-            "name": "Alice"
+            "name": "Alice",
+            "isVip": false
         },
         {
             "id": 2,
-            "name": "Bob"
+            "name": "Bob",
+            "isVip": true
         },
         {
             "id": 3,
             "name": "Cathy"
+            "isVip": false
         }
     ]
 }
