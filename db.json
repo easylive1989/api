@@ -34,17 +34,17 @@
         {
             "id": 1,
             "name": "Alice",
-            "isVip": false
+            "isVip": "false"
         },
         {
             "id": 2,
             "name": "Bob",
-            "isVip": true
+            "isVip": "true"
         },
         {
             "id": 3,
             "name": "Cathy"
-            "isVip": false
+            "isVip": "false"
         }
     ]
 }
