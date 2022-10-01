@@ -30,7 +30,7 @@
             "lon": -73.9
         }
     ],
-    "users": [
+    "user": [
         {
             "id": 1,
             "name": "Alice"
