@@ -46,5 +46,22 @@
             "name": "Cathy",
             "isVip": false
         }
+    ],
+    "news": [
+	    {
+		    "title": "Hello World",
+            "shortContent": ".....",
+            "createTime": "2022-10-01 12:00:00"
+	    },
+	    {
+		    "title": "Today is a good day",
+            "shortContent": ".....",
+            "createTime": "2022-10-02 12:00:00"
+	    },
+	    {
+		    "title": "Happy Ending",
+            "shortContent": ".....",
+            "createTime": "2022-10-03 12:00:00"
+	    }
     ]
 }
